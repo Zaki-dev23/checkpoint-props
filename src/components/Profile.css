@@ -1,0 +1,97 @@
+.content{
+  box-shadow: 1px 1px 10px black;
+  height: 0%;
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.itSAWonderfulLife1946 {
+  color: #00274a;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Raleway, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+
+
+.rectangle1 {
+  width: 420px;
+  height: 630px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle1.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle2 {
+  /* position: absolute; */
+ 
+  width: 840px;
+  height: 630px;
+  background-color: #fff;
+}
+.jamesStewart {
+  color: #00274a;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Rockwell, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.jamesMaitlandStewartMay201908J {
+ 
+  width: 707px;
+  height: min-content;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 18px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+
+
+.clapyResets *{
+  box-sizing: border-box;
+  border: none;
+  flex-shrink: 0;
+  text-decoration: none;
+  min-width: 0;
+  
+}
+
+
+.clapyResets{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  height: 60vh;
+  text-align: start;
+}
+
+.clapyResets{
+  text-indent: 0;
+  margin-bottom: 0;
+}
+.Image{
+  width:400px;
+  height: 400px;
+  margin-top: 25%;
+}
+.textContent{
+  margin-top: 20%;
+}
+
+.btn {
+  padding: 5px 8px;
+  border: 1px solid rgba(0,0,0,0.2);
+  border-radius: 3px;
+  margin-left: 9px;
+}
